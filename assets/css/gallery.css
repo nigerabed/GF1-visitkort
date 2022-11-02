@@ -1,0 +1,14 @@
+.gallery{
+    flex-direction: row;
+}
+
+.gallery article{
+    width:  40vh;
+}
+
+.gallery article img{
+    width: 100%;
+    height: 40vh;
+    
+    object-fit: cover;
+}
